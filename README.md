@@ -1,18 +1,17 @@
-# V-AI Platform 🤖
+# V-AI 
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://v-ai-test.vercel.app/)
 [![Figma Design](https://img.shields.io/badge/Figma-Design-purple?style=for-the-badge&logo=figma)](https://www.figma.com/design/XryikIIiLnzuJlJBqfqRpD/V-AI-prueba?node-id=1-2&t=Cqt6KJJZ8T9xQEbT-1)
 
-## 🚀 Demo en Vivo
+## Demo
+->[https://v-ai-test.vercel.app/](https://v-ai-test.vercel.app/)
 
-Explora la plataforma completa: [https://v-ai-test.vercel.app/](https://v-ai-test.vercel.app/)
+## Diseño
 
-## 🎨 Diseño
-
-Consulta el proceso de diseño completo en Figma:  
+Figma:  
 [V-AI Design System](https://www.figma.com/design/XryikIIiLnzuJlJBqfqRpD/V-AI-prueba?node-id=1-2&t=Cqt6KJJZ8T9xQEbT-1)
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías 
 
 - **Frontend**: Vue.js
 - **Estilos**: Tailwind CSS
