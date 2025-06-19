@@ -26,6 +26,4 @@ Consulta el proceso de diseño completo en Figma:
 
 **Hecho con 💗 por Verónica Alejandra Santos de León**
 
-[🔗 Demo](https://v-ai-test.vercel.app/) • [🎨 Diseño](https://www.figma.com/design/XryikIIiLnzuJlJBqfqRpD/V-AI-prueba?node-id=1-2&t=Cqt6KJJZ8T9xQEbT-1) • [👩‍💻 GitHub](https://github.com/vsdl17/V-AI-TEST)
-
 </div>
