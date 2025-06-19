@@ -1,0 +1,89 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.bg-gradient-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.glassmorphism {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.glassmorphism-light {
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from { 
+    opacity: 0; 
+    transform: translateY(20px); 
+  }
+  to { 
+    opacity: 1; 
+    transform: translateY(0); 
+  }
+}
+
+.hover-lift:hover {
+  transform: translateY(-2px);
+}
+
+.hover-lift-more:hover {
+  transform: translateY(-5px);
+}
+
+.tab-shadow {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-shadow {
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.btn-shadow {
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.btn-shadow:hover {
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
+}
+
+.slide-up-enter-active,
+.slide-up-leave-active {
+  transition: all 0.3s ease;
+}
+
+.slide-up-enter-from {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+.slide-up-leave-to {
+  opacity: 0;
+  transform: translateY(-30px);
+}
