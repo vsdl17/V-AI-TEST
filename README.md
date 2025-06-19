@@ -3,11 +3,6 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://v-ai-test.vercel.app/)
 [![Figma Design](https://img.shields.io/badge/Figma-Design-purple?style=for-the-badge&logo=figma)](https://www.figma.com/design/XryikIIiLnzuJlJBqfqRpD/V-AI-prueba?node-id=1-2&t=Cqt6KJJZ8T9xQEbT-1)
 
-## 👩‍💻 Desarrolladora
-
-**Verónica Alejandra Santos de León**  
-📎 [GitHub Profile](https://github.com/vsdl17/V-AI-TEST)
-
 ## 🚀 Demo en Vivo
 
 Explora la plataforma completa: [https://v-ai-test.vercel.app/](https://v-ai-test.vercel.app/)
