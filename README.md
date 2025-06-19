@@ -1,5 +1,36 @@
-# Vue 3 + Vite
+# V-AI Platform 🤖
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://v-ai-test.vercel.app/)
+[![Figma Design](https://img.shields.io/badge/Figma-Design-purple?style=for-the-badge&logo=figma)](https://www.figma.com/design/XryikIIiLnzuJlJBqfqRpD/V-AI-prueba?node-id=1-2&t=Cqt6KJJZ8T9xQEbT-1)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 👩‍💻 Desarrolladora
+
+**Verónica Alejandra Santos de León**  
+📎 [GitHub Profile](https://github.com/vsdl17/V-AI-TEST)
+
+## 🚀 Demo en Vivo
+
+Explora la plataforma completa: [https://v-ai-test.vercel.app/](https://v-ai-test.vercel.app/)
+
+## 🎨 Diseño
+
+Consulta el proceso de diseño completo en Figma:  
+[V-AI Design System](https://www.figma.com/design/XryikIIiLnzuJlJBqfqRpD/V-AI-prueba?node-id=1-2&t=Cqt6KJJZ8T9xQEbT-1)
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Frontend**: Vue.js
+- **Estilos**: Tailwind CSS
+- **Tipografía**: Inter Font Family
+- **Despliegue**: Vercel
+- **Diseño**: Figma
+
+---
+
+<div align="center">
+
+**Hecho con ❤️ por Verónica Alejandra Santos de León**
+
+[🔗 Demo](https://v-ai-test.vercel.app/) • [🎨 Diseño](https://www.figma.com/design/XryikIIiLnzuJlJBqfqRpD/V-AI-prueba?node-id=1-2&t=Cqt6KJJZ8T9xQEbT-1) • [👩‍💻 GitHub](https://github.com/vsdl17/V-AI-TEST)
+
+</div>
